@@ -1,0 +1,1 @@
+{"name":"dynasteez-portfolio","version":"1.0.0","private":true,"description":"Dynasteez clothing portfolio","scripts":{"dev":"node server.cjs","start":"node server.cjs"},"engines":{"node":">=20"}}
